@@ -3,8 +3,8 @@
 - Make sure you have nodejs installed
 - Clone the repo
 - cd inside repo folder
-
-run
+- run
 ```
 node index.js
 ```
+- open browser at http://localhost:3000/
