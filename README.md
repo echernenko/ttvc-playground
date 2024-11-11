@@ -8,3 +8,4 @@
 node index.js
 ```
 - open browser at http://localhost:3000/
+- see in the Chrome console your TTVC rendering time.
