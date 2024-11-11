@@ -1,5 +1,8 @@
 # ttvc-playground
 
+This is a playground for https://github.com/dropbox/ttvc
+
+Steps to see it running:
 - Make sure you have nodejs installed
 - Clone the repo
 - cd inside repo folder
